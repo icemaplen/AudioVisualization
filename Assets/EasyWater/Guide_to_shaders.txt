@@ -1,0 +1,8 @@
+You can know which features each shader contains reading the suffix:
+C = Color
+T = Texture Slot
+2T = 2 Texture Slots
+B = BumpMaps
+O = Opacity
+R = Reflection
+360 = Needs the Animate360.js script to animate. Runs faster and allow waves to any direction.
