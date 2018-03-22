@@ -1,7 +1,7 @@
 # AudioVisualization
 ## 基于Unity 3D引擎的可视化音乐播放器
 
-![avatar](http://cdn.icemaplen.com/wp-content/uploads/2018/03/20180321214629.png)
+![Aaron Swartz](https://github.com/icemaplen/AudioVisualization/raw/master/20180321214508.png)
 
 ### 使用说明
 - Esc：显示/隐藏菜单
